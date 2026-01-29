@@ -60,8 +60,6 @@ This project follows clean and scalable frontend architecture:
 ✅ Safe duplicate prevention logic
 
 ✅ Responsive and accessible UI
-
-📂 Project Structure
 src/
 │
 ├── components/
@@ -77,6 +75,7 @@ src/
 ├── App.jsx
 ├── main.jsx
 └── index.css
+
 
 ⚙️ Installation & Setup
 
